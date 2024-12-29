@@ -1,19 +1,19 @@
  <h1 align="center">Hi 👋, I'm SHRISHTI YADAV
   <img align="centre"alt='coding' width="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gifx">
  </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti1414&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti1414" /> </p>
 
-- 🔭 I’m currently working on **TOOLS SHORTCUT KEY GUIDE**
+- 🔭 I’m currently working on TOOLS SHORTCUT KEY GUIDE.
 
-- 🌱 I’m currently learning **REACT ,JS , PYTHON .**
+- 🌱 I’m currently learning REACT ,JS , PYTHON .
 
-- 👯 I’m looking to collaborate on **FITNESSS TRACKER WEBSITE**
+- 👯 I’m looking to collaborate on FITNESSS TRACKER WEBSITE.
 
-- 📫 How to reach me **yshrishti39@gmail.com**
+- 📫 How to reach me @yshrishti39@gmail.com.
 
-- ⚡ Fun fact **I get bored .**
+- ⚡ Fun fact :I put the pro in the procastination.
  
 
 <h3 align="left">Connect with me:</h3>
