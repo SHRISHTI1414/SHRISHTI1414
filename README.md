@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm SHRISHTI YADAV
   <img align="centre"alt='coding' width="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gifx">
  </h1>
-<h3 align="center">A web developer from India</h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti1414&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti1414" /> </p>
 
