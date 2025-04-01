@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning REACT ,JS , PYTHON .
 
-- 👯 I’m looking to collaborate on FITNESSS TRACKER WEBSITE.
-
 - 📫 How to reach me @yshrishti39@gmail.com.
 
 - ⚡ Fun fact :I put the pro in the procastination.
