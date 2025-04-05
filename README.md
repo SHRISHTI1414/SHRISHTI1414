@@ -1,7 +1,7 @@
- 
-  <img align="centre"alt='coding' width="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gifx">
+<h1>align="center">🌸 Shrishti Yadav 🌸 
+ <img align="centre"alt='coding' width="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gifx">
  </h1>
- <h1 >align="center">🌸 Shrishti Yadav 🌸</h1>
+  
  <h2>
  CS undergrad. I break things, then code smarter fixes.  
 Into AI, DSA & open source chaos.
