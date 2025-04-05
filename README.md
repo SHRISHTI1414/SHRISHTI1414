@@ -2,13 +2,12 @@
  <img align="centre"alt='coding' width="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gifx">
  </h1>
   
- <h2>
-      <p> CS undergrad. I break things, then code smarter fixes.  
-       Into AI, DSA & open source chaos.
-       📬 yshrishti39@gmail.com
-      </p>  
+  <h2 align="center">
+  CS undergrad. I break things, then code smarter fixes. <br>
+  Into AI, DSA & open source chaos. <br>
+  📬 yshrishti39@gmail.com
+</h2>
 
- </h2>
 <h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti1414&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti1414" /> </p>
