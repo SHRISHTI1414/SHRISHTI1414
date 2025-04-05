@@ -1,13 +1,11 @@
-<h1 align="center">🌸 Shrishti Yadav 🌸 
+<h1 align="center"> Hey,I'm Shrishti Yadav🌸.
  <img align="centre"alt='coding' width="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gifx">
  </h1>
   
  <h2>
- CS undergrad. I break things, then code smarter fixes.  
-Into AI, DSA & open source chaos.
-
-📍 Working on: Tools Shortcut Key Guide  
-📬 yshrishti39@gmail.com
+       CS undergrad. I break things, then code smarter fixes.  
+       Into AI, DSA & open source chaos.
+       📬 yshrishti39@gmail.com
 
  </h2>
 <h3 align="center"> </h3>
