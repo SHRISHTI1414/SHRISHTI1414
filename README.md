@@ -3,9 +3,10 @@
  </h1>
   
  <h2>
-       CS undergrad. I break things, then code smarter fixes.  
+      <p> CS undergrad. I break things, then code smarter fixes.  
        Into AI, DSA & open source chaos.
        📬 yshrishti39@gmail.com
+      </p>  
 
  </h2>
 <h3 align="center"> </h3>
