@@ -3,7 +3,7 @@
  </h1>
   
   <h2 align="center">
-  CS undergrad. I break things, then code smarter fixes. <br>
+  CS undergrad.<br>
   Into AI, DSA & open source chaos. <br>
   📬 yshrishti39@gmail.com
 </h2>
